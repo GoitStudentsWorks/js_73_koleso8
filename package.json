@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/js2team_proj/",
+    "build": "vite build --base=/js_73_koleso8/",
     "preview": "vite preview"
   },
   "devDependencies": {
